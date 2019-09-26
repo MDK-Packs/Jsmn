@@ -12,7 +12,7 @@
 
 # Upstream repository
 UPSTREAM_URL=https://api.github.com/repos/zserge/jsmn
-UPSTREAM_TAG=v1.0.0
+UPSTREAM_TAG=v1.1.0
 
 # Pack Vendor
 PACK_VENDOR=MDK-Packs
